@@ -1,17 +1,15 @@
 {
   "images" : [
     {
-      "filename" : "gannibal.png",
+      "filename" : "16-apple-512 (1).png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "gannibal 1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "gannibal 2.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
